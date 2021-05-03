@@ -1,0 +1,85 @@
+h1{
+    font-family: Tajawal, sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: black;
+}
+.color-container, .font-container, .text-styles{
+    border: 5px solid black;
+    margin: 20px 20px;
+    padding-top: 25px;
+    padding-bottom: 75px;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 50%;
+}
+h2{
+    color: black;
+    font-size: 35px;
+    text-decoration: underline;
+}
+.color-container-green, .color-container-teal, .color-container-orange{
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.color-container-green{
+    background-color: #158155;
+    color: white;
+}
+.color-container-teal{
+    background-color: #16BBC3;
+    color: white;
+}
+.color-container-orange{
+    background-color: #E7631C;
+    color: white;
+}
+.explain{
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    font-family: Quatrocento, serif;
+}
+.font-container-tajawal, .font-container-quatrocento{
+    display: inline-block;
+    font-weight: 400;
+}
+.font-container-quatrocento{
+    margin-top: 0px;
+    margin-left: 50px;
+    position: relative;
+    bottom:25px;
+    font-family: Quatrocento, serif;
+}
+p{
+    font-size: 28px;
+}
+.font-styles{
+    font-size: 18px;
+}
+.light{
+    font-weight: 300;
+}
+.regular{
+    font-weight: 400;
+}
+.bold{
+    font-weight: 700;
+}
+.h1-main, .h1-font, .h1-family, .h1-weight{
+    font-size: 28px;
+    font-weight: 700;
+    font-family: Quatrocento, serif;
+}
+.h2-sub, .h2-font, .h2-family, .h2-weight{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Quatrocento, serif;
+}
+.paragraph, .p-font, .p-family, .p-weight{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: Quatrocento, serif;
+}
